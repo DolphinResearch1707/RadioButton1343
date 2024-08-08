@@ -1,0 +1,13 @@
+ASP:RADIOBUTTON Id="optMale"
+AutoPostBack="False"
+checked="True"
+GroupName="Gender"
+Text="Male"
+TextAlign="Right"
+String="Server"/>
+<asp:radioButton id="optFelmale"
+AutoPostBack="False"
+GroupName="Gender"
+  Text="Female"
+TextAlign="Right"
+String="server"/>
